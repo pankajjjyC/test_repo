@@ -12,5 +12,5 @@ xyz
 git clone https://github.com/pankajjjyC/test_repo.git "sample git pull"
 
 6 diff b/w clone and pull is that , clone is used to make a copy of remote repo to your local computer , 
-and pull is used to update a existing remote repo
+Use git pull when you already have a local copy of the repository and want to update it 
 
