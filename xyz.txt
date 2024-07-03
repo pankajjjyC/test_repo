@@ -8,4 +8,9 @@ xyz
 3.git branch  "should give master" ---->  *master
 4.git push -u origin master
 
+5. to take a repo use 
+git clone https://github.com/pankajjjyC/test_repo.git "sample git pull"
+
+6 diff b/w clone and pull is that , clone is used to make a copy of remote repo to your local computer , 
+and pull is used to update a existing remote repo
 
