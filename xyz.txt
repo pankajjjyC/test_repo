@@ -1,1 +1,11 @@
 xyz
+
+
+1.git add xyz.txt  / or git add .
+2.git commit -m "comment"
+2.5 .git remote add origin https://github.com/your-username/test_repo.git
+
+3.git branch  "should give master" ---->  *master
+4.git push -u origin master
+
+
